@@ -9,3 +9,4 @@ console.log('main-test2')
 fweweffweffewefw
 
 console.log('main-1test')
+console.log('main-2test')
