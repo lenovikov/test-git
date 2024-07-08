@@ -7,3 +7,5 @@ console.log('main-test')
 
 console.log('main-test2')
 fweweffweffewefw
+
+console.log('test-5')
