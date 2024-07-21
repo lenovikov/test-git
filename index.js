@@ -1,1 +1,1 @@
-log(1232)
+console.log('hello')
